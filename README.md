@@ -24,7 +24,7 @@
 - Python (ML, Genetic Algorithms, Minimax, Data Science)  
 - PHP (Backend Development)  
 - MySQL (Database Management)  
-- C (Problem Solving, Strong Numbers Project)  
+- C (Problem Solving)  
 - Digital Electronics (CD4017, CD4081, NE555)  
 
 **Tools**  
