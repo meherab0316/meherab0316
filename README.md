@@ -9,12 +9,13 @@
 ---
 
 ## 🎯 Interests  
-- Marketing & Branding  
+- Full-stack Development (PHP, MySQL)
+- Machine learning, AI, Computer Vision
+- Digital Electronics & Algorithms   
 - Business Case Competitions  
 - Leadership & Innovation  
-- Digital Electronics & Algorithms  
 - Sustainability Projects (*Project Loop*, *The Helping Hand*)  
-- Full-stack Development (PHP, MySQL)  
+
 
 ---
 
