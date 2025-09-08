@@ -88,11 +88,9 @@
 
 ## 🎯 Goals  
 
-**Short Term**  
-- Become Vice President of BIZ BEE  
+**Short Term**
 - Make *Project Loop* a campus-wide success  
-- Publish my undergrad thesis  
-- Campus Ambassador roles (Pathao)  
+- Publish my undergrad thesis   
 
 **Long Term**  
 - Establish *The Helping Hand* as a sustainable org  
