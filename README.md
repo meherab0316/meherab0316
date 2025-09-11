@@ -89,16 +89,14 @@
 
 ## 🎯 Goals  
 
-**Short Term**
-- Make *Project Loop* a campus-wide success  
-- Publish my undergrad thesis   
+## 🔹 Short Term  
+- Publish my undergrad thesis  
+- Join a **Product Management role** and start building expertise  
 
-**Long Term**  
-- Establish *The Helping Hand* as a sustainable org  
-- Work in tech companies / MNCs for global experience  
-- Create impact in education, sustainability & social innovation  
-
----
+## 🔹 Long Term  
+- Excel as a **Product Manager** and drive innovation in global companies  
+- Work in **tech companies / MNCs** for global exposure and experience  
+- Create lasting impact in **sustainability & social innovation**  
 
 ## 🌟 Personality  
 
