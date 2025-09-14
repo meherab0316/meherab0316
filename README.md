@@ -40,7 +40,7 @@
 **Soft Skills**  
 - Leadership | Team Building & Management  
 - Public Speaking & Anchoring  
-- Communication & Hosting  
+- Communication and collaboration 
 - Idea Generation | Problem Solving  
 
 ---
