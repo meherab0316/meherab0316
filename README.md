@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Meherab Hossain  
 
-**Tech Learner | Business Enthusiast | Educator**  
+**Tech Learner | Product management Enthusiast | Business Fanatic**  
 
 📍 Dhaka, Bangladesh  
 💻 GitHub: [meherab0316](https://github.com/meherab0316)  
