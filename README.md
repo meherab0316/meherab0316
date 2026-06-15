@@ -82,7 +82,7 @@
 - 🥇 **Winner – Hult Prize @ BRAC University**  
 - 🌱 **Zero Waste Challenge Seed Fund Winner**  
 - 🌍 **Reventure-A failed business refurbish competition - 1st Runners Up**  
-- 🎤 Organized **HSBC-IBA Business Case Competition-2024,2025 (BBS-HSBC)**  
+- 🎤 Organized **HSBC-BBS Business Case Competition-2024,2025**  
 - 🎪 Hosted **Kids Time Fair (largest kids-based event in Bangladesh)**  
 
 ---
